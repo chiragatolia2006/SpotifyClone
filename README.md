@@ -3,6 +3,7 @@ Spotify Clone 🎵
 A responsive Spotify Clone built using HTML and CSS.
 
 🚀 Features
+
 Responsive Spotify-inspired user interface
 Sidebar navigation
 Home and Search options
