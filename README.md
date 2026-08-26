@@ -23,11 +23,8 @@ Mobile hamburger menu with sliding sidebar
 🛠️ Technologies Used
 
 HTML5
-
 CSS3
-
 Font Awesome
-
 Google Fonts
 
 
@@ -37,10 +34,9 @@ Google Fonts
 The project is responsive and optimized for different screen sizes:
 
 Desktop
-
 Tablet
-
 Mobile
 
 👨‍💻 Author
+
 Chirag Atolia
