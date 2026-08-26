@@ -33,8 +33,8 @@ Google Fonts
 
 The project is responsive and optimized for different screen sizes:
 
-Desktop
-Tablet
+Desktop,
+Tablet,
 Mobile
 
 👨‍💻 Author
