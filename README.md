@@ -20,12 +20,14 @@ Responsive design for desktop, tablet, and mobile devices
 Mobile hamburger menu with sliding sidebar
 
 🛠️ Technologies Used
+
 HTML5
 CSS3
 Font Awesome
 Google Fonts
 
 📱 Responsive Design
+
 The project is responsive and optimized for different screen sizes:
 
 Desktop
